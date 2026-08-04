@@ -30,6 +30,9 @@ sales-dashboard/
 | [02. 검색어 트렌드](docs/02_검색어_트렌드.md) | 네이버 API 연동, 프리셋 저장, 키 발급 방법 |
 | [03. AI 분석 리포트](docs/03_AI_분석_리포트.md) | Vertex AI 연결, 8개 섹션, 담당자 의견 |
 | [04. GA ETL 잡 배포](docs/04_GA_ETL_잡_배포.md) | Cloud Run Job + Scheduler, 백필, 사업군 추가 |
+| [05. 대시보드 배포](docs/05_대시보드_Cloud_Run_배포.md) |  |
+| [06. 인증](docs/06_인증_및_사용자_권한.md) |  |
+
 
 ## 배포 & 접근 제어
 

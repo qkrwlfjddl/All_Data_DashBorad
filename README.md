@@ -32,6 +32,7 @@ sales-dashboard/
 | [04. GA ETL 잡 배포](docs/04_GA_ETL_잡_배포.md) | Cloud Run Job + Scheduler, 백필, 사업군 추가 |
 | [05. 대시보드 배포](docs/05_대시보드_Cloud_Run_배포.md) |  |
 | [06. 인증](docs/06_인증_및_사용자_권한.md) |  |
+| [07. 유지보수](docs/07_유지보수_가이드.md) |  |
 
 
 ## 배포 & 접근 제어
